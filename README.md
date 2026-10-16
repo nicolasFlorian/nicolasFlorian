@@ -4,12 +4,10 @@
 
 I design, build and ship small products end to end. I'm also studying Business Administration at FGV EAESP, so I care about what a product earns as much as how it's built.
 
-|  |  |
-| --- | --- |
-| **Based in** | São Paulo, Brazil (UTC−3) |
-| **Looking for** | Remote product or engineering roles with teams in Europe and the US |
-| **Languages** | Portuguese (native), English (C1–C2), Spanish (basic) |
-| **Elsewhere** | [LinkedIn](https://www.linkedin.com/in/nicolasfloriano) |
+- **Based in:** São Paulo, Brazil (UTC−3)
+- **Looking for:** remote product or engineering roles with teams in Europe and the US
+- **Languages:** Portuguese (native), English (C1–C2), Spanish (basic)
+- **Elsewhere:** [LinkedIn](https://www.linkedin.com/in/nicolasfloriano)
 
 ## Projects
 
@@ -44,7 +42,7 @@ The Vite plugin behind the Belly Moda theme. Describe a Shopify section once in 
 
 ## Stack
 
-| | |
+| Area | Tools |
 | --- | --- |
 | **Frontend** | React, Preact, TypeScript, Next.js, Tailwind CSS, Vite |
 | **Backend and data** | Node.js, PostgreSQL, Prisma, Supabase |
